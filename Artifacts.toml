@@ -1,0 +1,228 @@
+[[ginkgo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9105a0b2eca727fe288516235bb417a31f864f24"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "c1f2ef2c633b42c350e709daa350a725da6264ad69423ee5ec18280cce478267"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ginkgo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebf2c3e0f30eb66196acd2fbde6e5c791336c7a2"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "98b5371798ea2506fb7a235f52938b253bcebfd2f6650906a6fe406143d9e014"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ginkgo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7aa95d9a3edec2723c03953b369ccec5ddabeb2"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "d0027acb9bd5a499f3e0606c9292029448f02a71fc776bb0f8f95b331b896094"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ginkgo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ae34cbe034483327eedba8510dee9660963bc05"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "78f5d74ce23444e04130b75cfe6844da4b24b8877ecfd791270fe3210309d2a2"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ginkgo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ce7ba0dc8085127b4039372c84635e8f99012640"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "436f95774ca11f7da0621104f7638b2b374b46093c3a9863160a42904f029277"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ginkgo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "834e9aa08e6791c22615f1cbc96cf37616e48810"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "76cc827a18eca6fb407526e7c456201a33919ddeebeed9c20effc59822162f01"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ginkgo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "931e26cb1e4d816f42a68b1d4d5c6d0adb708bf8"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "5aaee9e1ad66543b2cb0af9af91764b1cfe17adeda303175533e8ece2841825c"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ginkgo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "634af1d1f8672e29d9ba6be3be0f460ffb95614b"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "ff8aa8cd40a554f9dcccaa4da9fe7f9e4d6c0018188d734110c084d9e21c14b3"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ginkgo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8bf8f4a720c41ed316270b99f51ce94d6e17aa52"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "c5be801e85a8a4d47348cdb9d0f2da93a56de96a706e96ca695508b91ea78f34"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ginkgo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35cf15dacdd087f79ed794ad2be33fd51288f464"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "879b7690171557a8aa6d39f706f41825f7719397b90d2e227d4f17816d896d53"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ginkgo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "efc4e8cb1ad01a7d53c1cfbdc75343e4755f8f07"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "64411e056e225f2aecb0ad0cb977083f148ef2d482ebba74d16f3fc1f0feb308"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ginkgo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a84a7e94f92950967572927d3ae42ed042cdf49a"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "9427f766d3ddd87edb9cbe8ce4b4e317992314e7ae5e06589ae689519b952cec"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ginkgo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30930001259e0af0c5c7223e10571afc4888557d"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "1e997ed91fe0c769a17e15a5260e13e52793f0a705d0f91f28b6462a8270e02a"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.i686-linux-gnu-cxx03.tar.gz"
+[[ginkgo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db3f53147c9dab481861d28d68a10fc78caad695"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "fa611682ff59e2d332e5d61c527535c180a0f83ef9419fdb1a2746a2a542781e"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.i686-linux-gnu-cxx11.tar.gz"
+[[ginkgo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a74eb49e2ad33fda09e9ccb61fc3b089bbf09cb0"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "7c0a22f354d86e959eb4832bc14f7ac09af4d209d113c8c7fc0e54efbc5bd6ca"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.i686-linux-musl-cxx03.tar.gz"
+[[ginkgo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "caeebe558e1da82cf2e2c2ab90c002f7a95ce3e0"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "e31451f096bbba1a6bb2b72850e35094121bdc85d395e469be27c0bc9e9c1225"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.i686-linux-musl-cxx11.tar.gz"
+[[ginkgo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "039db685780fd0f51595bd10b846848651db430a"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "13c2d6626edb336b09489a3f92c2794703ee99ba98a8a85826eb52d2a724e31d"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ginkgo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d637faee539e3d355509e2a43238ca19a76168c6"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "efc706f34ce88ffd127871c56788ca2d5dc13af2c84ad1818c05323bff9dab5b"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ginkgo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aebb849a6e739787e1df18a036588ab4a90a3a3c"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "f01f341d375c79883664e6f392ae94327ee41841a46ba399b327fce272ed860c"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ginkgo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b93004147661eb53ee77f59672c6900759a42219"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "21f08c848a9230bc7f89a9564052a43f1d38f540f6aeec1d04530683affac8ab"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ginkgo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9bc9172e6c16ef587e4959ab43bcec3b093d3f81"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "0f5a9a65b78d0d47d6a764cfdd1b9733d02bd89395e2c687b6ee5403edce82f4"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ginkgo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "130598730ee9a4f3483e4dc882e5c299d10a3bf6"
+libc = "musl"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "9d31ac18f1d0ff81ec406df0b2e5e95868b63fb9e1e7d28e67608555033bd9f9"
+    url = "https://github.com/JuliaBinaryWrappers/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.x86_64-linux-musl-cxx11.tar.gz"
